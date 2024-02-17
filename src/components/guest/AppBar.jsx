@@ -8,7 +8,7 @@ export const AppBar = () => {
         </div>
         <div className="navbar-end space-x-3">
             <button className="btn w-32 btn-circle">Log In</button>
-            <button className="btn btn-neutral w-32 btn-circle">Sign Up</button>
+            <button className="btn btn-neutral w-32 btn-circle">Register</button>
         </div>
     </div>
   )
