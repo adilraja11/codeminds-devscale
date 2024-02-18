@@ -13,7 +13,7 @@ export const AppBar = () => {
         </div>
         <div className="navbar-end space-x-3">
             <button onClick={() => router.push("/auth/login")} className="btn w-32 btn-circle">Log In</button>
-            <button onClick={() => router.push("/auth/login")} className="btn btn-neutral w-32 btn-circle">Register</button>
+            <button onClick={() => router.push("/auth/register")} className="btn btn-neutral w-32 btn-circle">Register</button>
         </div>
     </div>
   )
